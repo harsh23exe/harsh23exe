@@ -12,3 +12,10 @@
 
 **Domains**:  Fullstack Development | Data Structures & Algorithms | Machine Learning
 
+ 
+  <div style="flex: 1;">
+    <h3></h3>
+    <!-- Total Commits -->
+    <img src="https://img.shields.io/badge/Total_Commits-1.2k-blue?style=flat-square&logo=github" alt="Total Commits">
+   </div>
+
