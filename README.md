@@ -12,9 +12,3 @@
 
 **Domains**:  Fullstack Development | Data Structures & Algorithms | Machine Learning
 
-
-## 🏡 Achievements
-- **Published Paper**: *"Classification of Bipolar Disorder Using Deep-Learning Models on fMRI Data"* in Springer LNNS.  
-- **700+ DSA Problems Solved**: Codeforces Specialist (Max Rating: 1401).  
-- **Certifications**: Algorithms on Graphs, Neural Networks (Coursera).  
-
